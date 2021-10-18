@@ -1,3 +1,3 @@
 # Notes
 
-This repository contains custom hooks, to help me and anyone who needs it
+This repository contains custom hooks, to help me and anyone who needs it! 🙂 🚀
